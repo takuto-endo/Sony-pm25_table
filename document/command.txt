@@ -1,0 +1,3 @@
+
+cd /Users/takuto/Desktop/Sony_pm25-master/src
+python3 runner.py
